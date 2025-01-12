@@ -22,7 +22,8 @@ class URI {
 
 
 
-        
+        Console.WriteLine($"Version 1.0");
+        Console.WriteLine($"Data: 12/01/2025");
     }
 
 }
